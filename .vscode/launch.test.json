@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "WarpSDK",
+                "projectName": "WarpSDK",
+                "workingDirectory": "/Users/bkerfeld/workspace/WarpSDK",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "WarpSDK",
+                "projectName": "WarpSDK",
+                "workingDirectory": "/Users/bkerfeld/workspace/WarpSDK",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
